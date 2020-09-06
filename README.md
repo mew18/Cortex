@@ -25,4 +25,4 @@ Graphics memory: 128 MB
 3) When a face is detected, CORTEX.exe will open automatically.
 4) Perform the desired operation.
 
-##### Prepared as part of the 2nd year SE project
+##### Prepared as part of the 2nd year SE project!
